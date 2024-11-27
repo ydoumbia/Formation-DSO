@@ -66,7 +66,7 @@ Aller dans git => pull request => créer une pull request => merge pull request 
 ## TP DevSecOps 1
 
 ### I - Préparation de l'environnement
-1) Faire un fork de ce [projet](https://github.com/HMP-DSO/Formation-DSO) vers votre répository Head Mind.
+1) Faire un fork de ce [projet](https://github.com/HMP-DSO/Formation-DSO) vers votre répository Headmind.
 
 2) Cliquer sur code (bouton vert), dans HTTPS copier l'URL (.git) et aller dans votre invite de commande et taper la commande :
 ```
