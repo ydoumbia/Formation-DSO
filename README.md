@@ -16,7 +16,7 @@ POC : https://gist.github.com/adamczi/23a3b6d4bb7b2be35e79b0667d6682e1
 
 ### I - Git clone et exécution
 
-1) Faire un fork de ce [projet](https://github.com/HMP-DSO/Formation-DSO) vers votre répository Head Mind.
+1) Faire un fork de ce [projet](https://github.com/HMP-DSO/Formation-DSO) vers votre répository Headmind.
 
 2) Va dans ton github et génère un [Personnal Acces Token](https://github.com/settings/tokens). Coche toute les cases pour donner l'ensemble des droits à ton token (en réalité, c'est fortement déconseillé de faire ça). Conserve bien ton token, il te servieras par la suite.
 
