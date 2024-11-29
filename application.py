@@ -63,7 +63,6 @@ def uploaded():
 
 #Utilisation de la fonction vulnérable selon le POC de la CVE-2020-1747
 def process_file(file_name):
-    """Lit le fichier texte et retourne son contenu. Pour d'autres types de fichiers, ajustez le traitement."""
     #Chargement du fichier YAML
     if ".yaml" in file_name or ".yml" in file_name:
         try:
